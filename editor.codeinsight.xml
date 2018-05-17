@@ -8,4 +8,7 @@
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
   </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_XML_TAGS" value="true" />
+  </component>
 </application>
