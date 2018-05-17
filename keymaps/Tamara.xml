@@ -61,6 +61,7 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="numpad2" />
   </action>
   <action id="GotoSuperMethod" />
   <action id="GotoTypeDeclaration">
